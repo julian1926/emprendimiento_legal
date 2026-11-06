@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" fill="none">
+  <defs>
+    <linearGradient id="wash" x1="97" y1="124" x2="530" y2="425" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#23C9D0"/>
+      <stop offset="1" stop-color="#078BD6"/>
+    </linearGradient>
+    <linearGradient id="car" x1="159" y1="227" x2="483" y2="351" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#147EB8"/>
+      <stop offset="1" stop-color="#08295D"/>
+    </linearGradient>
+  </defs>
+  <circle cx="321" cy="247" r="193" fill="#DDF7F8"/>
+  <path d="M111 373c34 22 73 32 112 27 38-5 72-30 110-28 41 2 72 30 113 27 38-3 72-29 91-60" stroke="url(#wash)" stroke-linecap="round" stroke-width="14"/>
+  <path d="M136 327h371l-21 51H158l-22-51Z" fill="#0B4A82"/>
+  <path d="m185 249 48-69a32 32 0 0 1 26-14h131a37 37 0 0 1 28 13l61 70 35 13a30 30 0 0 1 19 28v30H132v-34a31 31 0 0 1 22-30l31-7Z" fill="url(#car)"/>
+  <path d="m248 183-38 62h123v-62H248ZM351 183v62h112l-53-61a19 19 0 0 0-14-6h-45Z" fill="#BCECF4"/>
+  <path d="M147 288h34a14 14 0 0 1 14 14v20h-48v-34ZM469 288h34a14 14 0 0 1 14 14v20h-48v-34Z" fill="#D8F7F9"/>
+  <circle cx="211" cy="356" r="37" fill="#09244E"/>
+  <circle cx="211" cy="356" r="19" fill="#D6E9F1"/>
+  <circle cx="211" cy="356" r="8" fill="#078BD6"/>
+  <circle cx="434" cy="356" r="37" fill="#09244E"/>
+  <circle cx="434" cy="356" r="19" fill="#D6E9F1"/>
+  <circle cx="434" cy="356" r="8" fill="#078BD6"/>
+  <path d="M117 153c0-23 18-41 41-41h148c23 0 41 18 41 41v10H117v-10Z" fill="#08295D" opacity=".12"/>
+  <path d="M123 144c0-23 18-41 41-41h148c23 0 41 18 41 41v10H123v-10Z" fill="white"/>
+  <circle cx="154" cy="139" r="8" fill="#00C3CC"/>
+  <path d="m188 140 12 12 24-27" stroke="#0A7FAA" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+  <path d="M503 123c0 22-26 39-26 59a26 26 0 0 0 52 0c0-20-26-37-26-59Z" fill="#00BFCB"/>
+  <path d="M536 199c0 13-16 24-16 36a16 16 0 0 0 32 0c0-12-16-23-16-36Z" fill="#53D7DC"/>
+  <path d="m95 236 8 15 16 8-16 8-8 16-8-16-16-8 16-8 8-15Z" fill="#078BD6"/>
+  <path d="m476 80 6 12 13 6-13 6-6 13-6-13-13-6 13-6 6-12Z" fill="#00C3CC"/>
+</svg>
